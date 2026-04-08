@@ -21,7 +21,7 @@ This is a practice exercise developed in AL for Microsoft Dynamics 365 Business 
 ## 💻 Tech Stack
 * **Language:** AL
 * **Platform:** Microsoft Dynamics 365 Business Central
-* **Runtime:** 12.0 (Adjust according to your app.json)
+* **Runtime:** 16.0
 
 ---
 
@@ -48,7 +48,12 @@ Este es un ejercicio de práctica desarrollado en AL para Microsoft Dynamics 365
 ## 💻 Tecnologías utilizadas
 * **Lenguaje:** AL
 * **Plataforma:** Microsoft Dynamics 365 Business Central
-* **Runtime:** 12.0 (Ajustar según tu app.json)
+* **Runtime:** 16.0
 
 ---
-Developed by [Jose Santamargarita](https://github.com/josigmar) - 2026
+
+Developed by **Jose Santamargarita** 🔗 [GitHub Profile](https://github.com/josigmar) | 👔 [LinkedIn Profile](https://www.linkedin.com/in/jose-manuel-santamargarita-perez-3a786238b/)
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/jose-manuel-santamargarita-perez-3a786238b/)
+
+*2026*
