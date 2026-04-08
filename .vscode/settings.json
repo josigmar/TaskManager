@@ -1,0 +1,9 @@
+{
+    "al.enableCodeAnalysis": true,
+    "al.codeAnalyzers": ["${CodeCop}","${UICop}","${PerTenantExtensionCop}"],
+    "CRS.ObjectNamePrefix": "LAB ",
+    "CRS.ExtensionObjectNamePattern": "<Prefix><BaseNameShort>",
+    "CRS.FileNamePatternExtensions": "<ObjectNameShort>.<ObjectTypeShortPascalCase>.al",
+    "CRS.FileNamePattern": "<ObjectNameShort>.<ObjectTypeShortPascalCase>.al",    
+    "CRS.OnSaveAlFileAction": "Reorganize"
+}
