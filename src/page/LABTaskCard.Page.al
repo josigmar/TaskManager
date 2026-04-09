@@ -1,3 +1,5 @@
+namespace Laberit.TaskManager;
+
 page 50303 "LAB Task Card"
 {
     Caption = 'Tarea';

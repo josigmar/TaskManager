@@ -1,3 +1,5 @@
+namespace Laberit.TaskManager;
+
 page 50304 "LAB Task List Part"
 {
     Caption = 'Usuarios asignados';

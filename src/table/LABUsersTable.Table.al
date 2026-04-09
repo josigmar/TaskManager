@@ -1,3 +1,5 @@
+namespace Laberit.TaskManager;
+
 table 50300 "LAB Users Table"
 {
     Caption = 'Usuarios';

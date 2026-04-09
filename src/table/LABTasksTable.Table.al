@@ -1,3 +1,5 @@
+namespace Laberit.TaskManager;
+
 table 50301 "LAB Tasks Table"
 {
     Caption = 'Tareas';

@@ -1,3 +1,5 @@
+namespace Laberit.TaskManager;
+
 table 50302 "LAB Task Assignment"
 {
     Caption = 'Asignación de tareas';

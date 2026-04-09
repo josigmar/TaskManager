@@ -1,3 +1,5 @@
+namespace Laberit.TaskManager;
+
 enum 50300 "LAB Status Enum"
 {
     Extensible = true;

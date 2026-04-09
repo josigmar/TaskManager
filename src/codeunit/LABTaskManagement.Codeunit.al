@@ -1,3 +1,5 @@
+namespace Laberit.TaskManager;
+
 codeunit 50300 "LAB Task Management"
 {
     procedure MarkTaskAsCompleted(var TaskData: Record "LAB Tasks Table")

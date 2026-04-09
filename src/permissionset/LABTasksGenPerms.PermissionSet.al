@@ -1,3 +1,5 @@
+namespace Laberit.TaskManager;
+
 permissionset 50300 "LAB Tasks GenPerms"
 {
     Assignable = true;

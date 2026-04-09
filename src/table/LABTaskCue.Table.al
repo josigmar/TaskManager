@@ -1,3 +1,5 @@
+namespace Laberit.TaskManager;
+
 table 50303 "LAB Task Cue"
 {
     Caption = 'Actividades en cola';

@@ -1,3 +1,5 @@
+namespace Laberit.TaskManager;
+
 page 50305 "LAB Tasks Role Center"
 {
     Caption = 'Aplicación de Tareas';

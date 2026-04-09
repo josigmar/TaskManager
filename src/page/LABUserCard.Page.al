@@ -1,3 +1,5 @@
+namespace Laberit.TaskManager;
+
 page 50301 "LAB User Card"
 {
     Caption = 'Usuario';

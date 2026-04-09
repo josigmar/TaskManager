@@ -1,3 +1,5 @@
+namespace Laberit.TaskManager;
+
 profile "LAB Administrator Role" 
 {
     Caption = 'LAB Administrador Tareas';

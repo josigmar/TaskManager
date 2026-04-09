@@ -1,3 +1,5 @@
+namespace Laberit.TaskManager;
+
 page 50300 "LAB User List"
 {
     Caption = 'Usuarios';

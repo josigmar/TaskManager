@@ -1,3 +1,5 @@
+namespace Laberit.TaskManager;
+
 page 50306 "LAB Task Activities"
 {
     Caption = 'Actividades';
