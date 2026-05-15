@@ -1,4 +1,4 @@
-# 🚀 TaskManager - AL Project for Business Central
+# 🎓 TaskManager - AL Project for Business Central
 
 This is a practice exercise developed in AL for Microsoft Dynamics 365 Business Central. It focuses on task management within the ERP environment.
 
@@ -25,7 +25,7 @@ This is a practice exercise developed in AL for Microsoft Dynamics 365 Business 
 
 ---
 
-# 🚀 TaskManager - Proyecto AL para Business Central
+# 🎓 TaskManager - Proyecto AL para Business Central
 
 Este es un ejercicio de práctica desarrollado en AL para Microsoft Dynamics 365 Business Central, enfocado en la gestión de tareas dentro del entorno del ERP.
 
